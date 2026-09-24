@@ -10,6 +10,7 @@
 2. Open **FUTO Keyboard**
 3. Scroll down to **Themes**
 4. Tap the plus icon and import the `*.zip`
+5. Select the imported theme from the list
 
 ## Gallery
 
