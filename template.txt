@@ -1,0 +1,68 @@
+name = "$name"
+author = "gatinSy"
+id = "$id"
+version = 1
+description = "$description"
+
+[options]
+auto_borders = true
+center_hints = false
+roundedness = 1
+scale_text = 1
+scale_hints = 1
+weight_text = 400
+weight_hints = 500
+
+[colors]
+primary = "$love"
+on_primary = "$base"
+primary_container = "$overlay"
+on_primary_container = "$love"
+inverse_primary = "$love"
+
+secondary = "$gold"
+on_secondary = "$base"
+secondary_container = "$overlay"
+on_secondary_container = "$gold"
+
+tertiary = "$iris"
+on_tertiary = "$base"
+tertiary_container = "$overlay"
+on_tertiary_container = "$iris"
+
+background = "$base"
+on_background = "$text"
+
+surface = "$base"
+on_surface = "$text"
+surface_variant = "$overlay"
+on_surface_variant = "$subtle"
+surface_tint = "$love"
+inverse_surface = "$text"
+inverse_on_surface = "$base"
+
+error = "$love"
+on_error = "$base"
+error_container = "$overlay"
+on_error_container = "$love"
+
+outline = "$muted"
+outline_variant = "$highlightMed"
+scrim = "$base"
+
+surface_bright = "$highlightMed"
+surface_dim = "$base"
+surface_container = "$highlightLow"
+surface_container_high = "$overlay"
+surface_container_highest = "$highlightMed"
+surface_container_low = "$surface"
+surface_container_lowest = "$base"
+
+keyboard_surface = "$base"
+keyboard_surface_dim = "$surface"
+keyboard_container = "$overlay"
+keyboard_container_variant = "$highlightMed"
+on_keyboard_container = "$text"
+keyboard_press = "$highlightHigh"
+keyboard_container_pressed = "$subtle/33"
+on_keyboard_container_pressed = "$subtle/0"

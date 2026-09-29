@@ -1,0 +1,68 @@
+name = "Rosé Pine"
+author = "gatinSy"
+id = "rose-pine"
+version = 1
+description = "All natural pine, faux fur and a bit of soho vibes for the classy minimalist"
+
+[options]
+auto_borders = true
+center_hints = false
+roundedness = 1
+scale_text = 1
+scale_hints = 1
+weight_text = 400
+weight_hints = 500
+
+[colors]
+primary = "#eb6f92"
+on_primary = "#191724"
+primary_container = "#26233a"
+on_primary_container = "#eb6f92"
+inverse_primary = "#eb6f92"
+
+secondary = "#f6c177"
+on_secondary = "#191724"
+secondary_container = "#26233a"
+on_secondary_container = "#f6c177"
+
+tertiary = "#c4a7e7"
+on_tertiary = "#191724"
+tertiary_container = "#26233a"
+on_tertiary_container = "#c4a7e7"
+
+background = "#191724"
+on_background = "#e0def4"
+
+surface = "#191724"
+on_surface = "#e0def4"
+surface_variant = "#26233a"
+on_surface_variant = "#908caa"
+surface_tint = "#eb6f92"
+inverse_surface = "#e0def4"
+inverse_on_surface = "#191724"
+
+error = "#eb6f92"
+on_error = "#191724"
+error_container = "#26233a"
+on_error_container = "#eb6f92"
+
+outline = "#6e6a86"
+outline_variant = "#403d52"
+scrim = "#191724"
+
+surface_bright = "#403d52"
+surface_dim = "#191724"
+surface_container = "#21202e"
+surface_container_high = "#26233a"
+surface_container_highest = "#403d52"
+surface_container_low = "#1f1d2e"
+surface_container_lowest = "#191724"
+
+keyboard_surface = "#191724"
+keyboard_surface_dim = "#1f1d2e"
+keyboard_container = "#26233a"
+keyboard_container_variant = "#403d52"
+on_keyboard_container = "#e0def4"
+keyboard_press = "#524f67"
+keyboard_container_pressed = "#908caa54"
+on_keyboard_container_pressed = "#908caa00"

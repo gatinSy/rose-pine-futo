@@ -1,0 +1,68 @@
+name = "Rosé Pine Moon"
+author = "gatinSy"
+id = "rose-pine-moon"
+version = 1
+description = "All natural pine, faux fur and a bit of soho vibes for the classy minimalist"
+
+[options]
+auto_borders = true
+center_hints = false
+roundedness = 1
+scale_text = 1
+scale_hints = 1
+weight_text = 400
+weight_hints = 500
+
+[colors]
+primary = "#eb6f92"
+on_primary = "#232136"
+primary_container = "#393552"
+on_primary_container = "#eb6f92"
+inverse_primary = "#eb6f92"
+
+secondary = "#f6c177"
+on_secondary = "#232136"
+secondary_container = "#393552"
+on_secondary_container = "#f6c177"
+
+tertiary = "#c4a7e7"
+on_tertiary = "#232136"
+tertiary_container = "#393552"
+on_tertiary_container = "#c4a7e7"
+
+background = "#232136"
+on_background = "#e0def4"
+
+surface = "#232136"
+on_surface = "#e0def4"
+surface_variant = "#393552"
+on_surface_variant = "#908caa"
+surface_tint = "#eb6f92"
+inverse_surface = "#e0def4"
+inverse_on_surface = "#232136"
+
+error = "#eb6f92"
+on_error = "#232136"
+error_container = "#393552"
+on_error_container = "#eb6f92"
+
+outline = "#6e6a86"
+outline_variant = "#44415a"
+scrim = "#232136"
+
+surface_bright = "#44415a"
+surface_dim = "#232136"
+surface_container = "#2a283e"
+surface_container_high = "#393552"
+surface_container_highest = "#44415a"
+surface_container_low = "#2a273f"
+surface_container_lowest = "#232136"
+
+keyboard_surface = "#232136"
+keyboard_surface_dim = "#2a273f"
+keyboard_container = "#393552"
+keyboard_container_variant = "#44415a"
+on_keyboard_container = "#e0def4"
+keyboard_press = "#56526e"
+keyboard_container_pressed = "#908caa54"
+on_keyboard_container_pressed = "#908caa00"

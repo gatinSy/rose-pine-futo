@@ -5,12 +5,15 @@
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
 
-### Usage
-1. Download the `*.zip` from the [releases](https://github.com/gatinSy/rose-pine-futo/releases)
-2. Open **FUTO Keyboard**
-3. Scroll down to **Themes**
-4. Tap the plus icon and import the `*.zip`
-5. Select the imported theme from the list
+## Usage
+
+1. Download the `.txt` for your preferred variant from the [`dist`](https://github.com/gatinSy/rose-pine-futo/tree/main/dist) folder
+2. Rename the file to `theme.txt`
+3. Compress `theme.txt` into a `.zip` file
+4. Open **FUTO Keyboard**
+5. Scroll down to **Themes**
+6. Tap the plus icon and import the `.zip`
+7. Select the imported theme from the list
 
 ## Gallery
 
@@ -29,3 +32,12 @@
 ## Thanks to
 
 - [Gatin](https://github.com/gatinSy)
+
+## Contributing
+<!-- BLOOM_BUILD_START -->
+This theme was built using [bloom](https://github.com/rose-pine/rose-pine-bloom):
+
+```sh
+bloom build template.txt --output dist --prefix $ --format hex
+```
+<!-- BLOOM_BUILD_END -->
