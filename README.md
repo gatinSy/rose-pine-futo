@@ -7,7 +7,7 @@
 
 ## Usage
 
-1. Download the `.txt` for your preferred variant from the [`dist`](https://github.com/gatinSy/rose-pine-futo/tree/main/dist) folder
+1. Download the `.txt` for your preferred variant from the `dist/` folder
 2. Rename the file to `theme.txt`
 3. Compress `theme.txt` into a `.zip` file
 4. Open **FUTO Keyboard**
